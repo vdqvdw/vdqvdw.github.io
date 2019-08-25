@@ -3,3 +3,5 @@ theme: jekyll-theme-minimal
 title: Ky's TECH blog
 description: to run tech blog
 logo: /bill.jpg
+
+baseurl : /post
