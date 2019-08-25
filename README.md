@@ -10,10 +10,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```Project
 
-[Markdown practice](https://vdqvdw.github.io/post)
 
 [Link](url) and ![Image](src)
 ```
+[Markdown practice](https://vdqvdw.github.io/post)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
