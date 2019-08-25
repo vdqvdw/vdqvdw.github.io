@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```Project
 
-[Markdown practice](/post)
+[Markdown practice](https://vdqvdw.github.io/post)
 
 [Link](url) and ![Image](src)
 ```
