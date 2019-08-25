@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 
 title: [Ky's TECH blog]
 description: [to run tech blog]
-logo: [http://static1.squarespace.com/static/5a4f0a8cb7411c20361d630f/5a4f0cd671c10b3b6ac01f6d/5b78c98a4fa51a76f35c412d/1534818387838/Bill+Evans.jpg?format=1500w]
+logo: [./bill.jpg]
