@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 title: Ky's TECH blog
 description: 열심히 <del>코딩</del> 피아노 치는 중...
-logo: /bill.jpg
+logo: images/bill.jpg
 
 # baseurl : /post
 # cover : 
