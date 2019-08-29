@@ -1,1 +1,0 @@
-# for Image files
